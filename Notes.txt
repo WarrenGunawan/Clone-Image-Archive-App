@@ -1,0 +1,16 @@
+App Criteria
+
+- Simple sign up feature to ensure you can stay logged in and have your images saved
+- Clean UI that lets you browse folders
+    - Taskbar to navigate (Account Details, Folders, and access Camera)
+    - Be able to Create Folders for images (Images on front optional)
+- Store all photos in a general archive folder
+- Take as many photos as you want
+- Once pictures taken with camera choose folders to add to
+
+
+- rnfes to make
+    const HomePage = () => {}
+
+green: #52b788
+dark gray: #242424

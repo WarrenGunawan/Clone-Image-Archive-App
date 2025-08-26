@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#000000"
+    },
+    "plugins": ["expo-dev-client"],
+    "name": "ImageArchive",
+    "slug": "ImageArchive",
+    "scheme": "imagearchive",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "6cb909c6-316b-449a-83ca-af06a9fa258b"
+      }
+    },
+    "owner": "warrengunawan",
+    "android": {
+      "package": "com.warrengunawan.ImageArchive"
+    }
+  }
+}
